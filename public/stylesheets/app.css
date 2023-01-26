@@ -16,7 +16,7 @@ header {
     border-radius: 50%;
   }
   body {
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
   }
   a.photo{
     transition: padding 0.5s;
